@@ -1,0 +1,45 @@
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .goal-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    width: 100%;
+    background: #e0dede;
+  }
+  
+  .goal-box p {
+    margin: 0;
+    font-size: 13px;
+  }
+  
+  /* .goal-box input {
+    font-size: 17px;
+  } */
+  
+  .button-container {
+    display: flex;
+    margin-top: 20%;
+  }
+  
+  .button-container button {
+    background: linear-gradient(to right, #95BEFF, #7B91FF);
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .button-container button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  

@@ -1,0 +1,89 @@
+
+.register h3 {
+    text-align: start;
+    margin-bottom: 20px;
+  }
+  
+  .formbox form {
+    margin-bottom: 30px;
+  }
+  
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  .formbox input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 90%;
+    padding: 12px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    outline: none;
+    background: #F1F1F1;
+    margin: 0.3rem;
+    margin-right: 10px;
+  }
+  
+  .butt button {
+    background: linear-gradient(to right, #95BEFF, #7B91FF);
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px;
+    display: block;
+    width: 100%;
+    margin-top: 200px;
+  }
+  
+  .butt button:focus {
+    outline: none;
+  }
+
+  .hori{
+    display: flex;
+    margin: 5px 0 7px 4px;
+    align-items: center;
+  }
+  
+  .hori hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+    width: 50%;
+  }
+  
+  .social-media {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .social-media .img2 {
+    /* width: 20px; */
+    margin: 0 10px;
+    cursor: pointer;
+    padding: 0.4rem 0.6rem 0.1rem 0.7rem;
+    border-radius: 7px;
+    border: 1px solid #000;
+  }
+  .img1{
+    margin: 0 10px;
+    cursor: pointer;
+    border-radius: 7px;
+    padding: 0.4rem 0.4rem 0.3rem 0.5rem;
+    border: 1px solid #000;
+  }
+  
+  .para p {
+    text-align: center;
+    font-size: 12px;
+  }
+  
+ .para p span {
+    color: #7B91FF;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
