@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dacoid/static/css/main.afe03eea.css",
+    "main.js": "/react-dacoid/static/js/main.d0272a90.js",
+    "static/media/Second.png": "/react-dacoid/static/media/Second.aed8c5cf501577c931dd.png",
+    "static/media/First.png": "/react-dacoid/static/media/First.e160378a4aa6244cd0be.png",
+    "index.html": "/react-dacoid/index.html",
+    "main.afe03eea.css.map": "/react-dacoid/static/css/main.afe03eea.css.map",
+    "main.d0272a90.js.map": "/react-dacoid/static/js/main.d0272a90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe03eea.css",
+    "static/js/main.d0272a90.js"
+  ]
+}
